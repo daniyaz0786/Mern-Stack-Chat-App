@@ -3,7 +3,7 @@ import React from 'react'
 const Mypage = () => {
   return (
     <div>
-        <h1>My APge</h1>
+        <h1>My APge dskjfhdshfhdsfh</h1>
       
     </div>
   )
